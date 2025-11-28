@@ -1,8 +1,6 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
   reactStrictMode: true,
-  // Ensure build output directory is 'build' for deployment compatibility
-  distDir: 'build',
   images: {
     remotePatterns: [
       {
