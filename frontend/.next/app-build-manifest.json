@@ -1,0 +1,902 @@
+{
+  "pages": {
+    "/_not-found/page": [
+      "static/chunks/webpack-18a548a87706f5f2.js",
+      "static/chunks/fd9d1056-839f5834eeb03fe5.js",
+      "static/chunks/8966-673348d8081b0bcb.js",
+      "static/chunks/main-app-d9c8a8df74cd8ea9.js",
+      "static/chunks/app/_not-found/page-e5ee2dbe07f52b0d.js"
+    ],
+    "/layout": [
+      "static/chunks/webpack-18a548a87706f5f2.js",
+      "static/chunks/fd9d1056-839f5834eeb03fe5.js",
+      "static/chunks/8966-673348d8081b0bcb.js",
+      "static/chunks/main-app-d9c8a8df74cd8ea9.js",
+      "static/css/53074b8d58f095a8.css",
+      "static/chunks/app/layout-7261ac5297600021.js"
+    ],
+    "/contact/page": [
+      "static/chunks/webpack-18a548a87706f5f2.js",
+      "static/chunks/fd9d1056-839f5834eeb03fe5.js",
+      "static/chunks/8966-673348d8081b0bcb.js",
+      "static/chunks/main-app-d9c8a8df74cd8ea9.js",
+      "static/chunks/7648-c7be6c4bd5306055.js",
+      "static/chunks/3145-db099f837418b490.js",
+      "static/chunks/1652-13ae74da2129589d.js",
+      "static/chunks/app/contact/page-ce17d7fa03f675c6.js"
+    ],
+    "/crm/clear-session/page": [
+      "static/chunks/webpack-18a548a87706f5f2.js",
+      "static/chunks/fd9d1056-839f5834eeb03fe5.js",
+      "static/chunks/8966-673348d8081b0bcb.js",
+      "static/chunks/main-app-d9c8a8df74cd8ea9.js",
+      "static/chunks/app/crm/clear-session/page-7f685ac82bd69f5e.js"
+    ],
+    "/crm/forgot-password/page": [
+      "static/chunks/webpack-18a548a87706f5f2.js",
+      "static/chunks/fd9d1056-839f5834eeb03fe5.js",
+      "static/chunks/8966-673348d8081b0bcb.js",
+      "static/chunks/main-app-d9c8a8df74cd8ea9.js",
+      "static/chunks/7648-c7be6c4bd5306055.js",
+      "static/chunks/app/crm/forgot-password/page-459818a414c44289.js"
+    ],
+    "/crm/login/page": [
+      "static/chunks/webpack-18a548a87706f5f2.js",
+      "static/chunks/fd9d1056-839f5834eeb03fe5.js",
+      "static/chunks/8966-673348d8081b0bcb.js",
+      "static/chunks/main-app-d9c8a8df74cd8ea9.js",
+      "static/chunks/7648-c7be6c4bd5306055.js",
+      "static/chunks/app/crm/login/page-552535b2f0aad4ac.js"
+    ],
+    "/crm/reset-password/page": [
+      "static/chunks/webpack-18a548a87706f5f2.js",
+      "static/chunks/fd9d1056-839f5834eeb03fe5.js",
+      "static/chunks/8966-673348d8081b0bcb.js",
+      "static/chunks/main-app-d9c8a8df74cd8ea9.js",
+      "static/chunks/7648-c7be6c4bd5306055.js",
+      "static/chunks/app/crm/reset-password/page-17d5aa776df66d89.js"
+    ],
+    "/gallery/page": [
+      "static/chunks/webpack-18a548a87706f5f2.js",
+      "static/chunks/fd9d1056-839f5834eeb03fe5.js",
+      "static/chunks/8966-673348d8081b0bcb.js",
+      "static/chunks/main-app-d9c8a8df74cd8ea9.js",
+      "static/chunks/7648-c7be6c4bd5306055.js",
+      "static/chunks/3145-db099f837418b490.js",
+      "static/chunks/1652-13ae74da2129589d.js",
+      "static/chunks/app/gallery/page-78a6f77a81409745.js"
+    ],
+    "/about/page": [
+      "static/chunks/webpack-18a548a87706f5f2.js",
+      "static/chunks/fd9d1056-839f5834eeb03fe5.js",
+      "static/chunks/8966-673348d8081b0bcb.js",
+      "static/chunks/main-app-d9c8a8df74cd8ea9.js",
+      "static/chunks/7648-c7be6c4bd5306055.js",
+      "static/chunks/3145-db099f837418b490.js",
+      "static/chunks/app/about/page-d669149a37231841.js"
+    ],
+    "/anniversary-venue-birmingham/page": [
+      "static/chunks/webpack-18a548a87706f5f2.js",
+      "static/chunks/fd9d1056-839f5834eeb03fe5.js",
+      "static/chunks/8966-673348d8081b0bcb.js",
+      "static/chunks/main-app-d9c8a8df74cd8ea9.js",
+      "static/chunks/7648-c7be6c4bd5306055.js",
+      "static/chunks/3145-db099f837418b490.js",
+      "static/chunks/app/anniversary-venue-birmingham/page-ae12a6c0f43f2273.js"
+    ],
+    "/affordable-venue-hire-wolverhampton/page": [
+      "static/chunks/webpack-18a548a87706f5f2.js",
+      "static/chunks/fd9d1056-839f5834eeb03fe5.js",
+      "static/chunks/8966-673348d8081b0bcb.js",
+      "static/chunks/main-app-d9c8a8df74cd8ea9.js",
+      "static/chunks/7648-c7be6c4bd5306055.js",
+      "static/chunks/3145-db099f837418b490.js",
+      "static/chunks/app/affordable-venue-hire-wolverhampton/page-8b360f8d04b6e33e.js"
+    ],
+    "/affordable-venue-hire-dudley/page": [
+      "static/chunks/webpack-18a548a87706f5f2.js",
+      "static/chunks/fd9d1056-839f5834eeb03fe5.js",
+      "static/chunks/8966-673348d8081b0bcb.js",
+      "static/chunks/main-app-d9c8a8df74cd8ea9.js",
+      "static/chunks/7648-c7be6c4bd5306055.js",
+      "static/chunks/3145-db099f837418b490.js",
+      "static/chunks/app/affordable-venue-hire-dudley/page-94f5ff2d03f4ce9b.js"
+    ],
+    "/affordable-wedding-venue-birmingham/page": [
+      "static/chunks/webpack-18a548a87706f5f2.js",
+      "static/chunks/fd9d1056-839f5834eeb03fe5.js",
+      "static/chunks/8966-673348d8081b0bcb.js",
+      "static/chunks/main-app-d9c8a8df74cd8ea9.js",
+      "static/chunks/7648-c7be6c4bd5306055.js",
+      "static/chunks/3145-db099f837418b490.js",
+      "static/chunks/app/affordable-wedding-venue-birmingham/page-871b8d6fd989fd4f.js"
+    ],
+    "/asian-wedding-venue-birmingham/page": [
+      "static/chunks/webpack-18a548a87706f5f2.js",
+      "static/chunks/fd9d1056-839f5834eeb03fe5.js",
+      "static/chunks/8966-673348d8081b0bcb.js",
+      "static/chunks/main-app-d9c8a8df74cd8ea9.js",
+      "static/chunks/7648-c7be6c4bd5306055.js",
+      "static/chunks/3145-db099f837418b490.js",
+      "static/chunks/app/asian-wedding-venue-birmingham/page-4b48aa8c686b4691.js"
+    ],
+    "/baby-shower-venue-birmingham/page": [
+      "static/chunks/webpack-18a548a87706f5f2.js",
+      "static/chunks/fd9d1056-839f5834eeb03fe5.js",
+      "static/chunks/8966-673348d8081b0bcb.js",
+      "static/chunks/main-app-d9c8a8df74cd8ea9.js",
+      "static/chunks/7648-c7be6c4bd5306055.js",
+      "static/chunks/3145-db099f837418b490.js",
+      "static/chunks/app/baby-shower-venue-birmingham/page-67e6bf5c76fb2d61.js"
+    ],
+    "/birthday-party-venue-birmingham/page": [
+      "static/chunks/webpack-18a548a87706f5f2.js",
+      "static/chunks/fd9d1056-839f5834eeb03fe5.js",
+      "static/chunks/8966-673348d8081b0bcb.js",
+      "static/chunks/main-app-d9c8a8df74cd8ea9.js",
+      "static/chunks/7648-c7be6c4bd5306055.js",
+      "static/chunks/3145-db099f837418b490.js",
+      "static/chunks/app/birthday-party-venue-birmingham/page-4c4f8fdaba99239d.js"
+    ],
+    "/birthday-venue-birmingham/page": [
+      "static/chunks/webpack-18a548a87706f5f2.js",
+      "static/chunks/fd9d1056-839f5834eeb03fe5.js",
+      "static/chunks/8966-673348d8081b0bcb.js",
+      "static/chunks/main-app-d9c8a8df74cd8ea9.js",
+      "static/chunks/7648-c7be6c4bd5306055.js",
+      "static/chunks/3145-db099f837418b490.js",
+      "static/chunks/app/birthday-venue-birmingham/page-2e7c71df56fb891b.js"
+    ],
+    "/birthday-venue-dudley/page": [
+      "static/chunks/webpack-18a548a87706f5f2.js",
+      "static/chunks/fd9d1056-839f5834eeb03fe5.js",
+      "static/chunks/8966-673348d8081b0bcb.js",
+      "static/chunks/main-app-d9c8a8df74cd8ea9.js",
+      "static/chunks/7648-c7be6c4bd5306055.js",
+      "static/chunks/3145-db099f837418b490.js",
+      "static/chunks/app/birthday-venue-dudley/page-dd4dd5aefd0c0b90.js"
+    ],
+    "/birthday-venue-wolverhampton/page": [
+      "static/chunks/webpack-18a548a87706f5f2.js",
+      "static/chunks/fd9d1056-839f5834eeb03fe5.js",
+      "static/chunks/8966-673348d8081b0bcb.js",
+      "static/chunks/main-app-d9c8a8df74cd8ea9.js",
+      "static/chunks/7648-c7be6c4bd5306055.js",
+      "static/chunks/3145-db099f837418b490.js",
+      "static/chunks/app/birthday-venue-wolverhampton/page-6523372a7b3ff4ca.js"
+    ],
+    "/birthday-venue-solihull/page": [
+      "static/chunks/webpack-18a548a87706f5f2.js",
+      "static/chunks/fd9d1056-839f5834eeb03fe5.js",
+      "static/chunks/8966-673348d8081b0bcb.js",
+      "static/chunks/main-app-d9c8a8df74cd8ea9.js",
+      "static/chunks/7648-c7be6c4bd5306055.js",
+      "static/chunks/3145-db099f837418b490.js",
+      "static/chunks/app/birthday-venue-solihull/page-901e11fd841e2d78.js"
+    ],
+    "/blog/page": [
+      "static/chunks/webpack-18a548a87706f5f2.js",
+      "static/chunks/fd9d1056-839f5834eeb03fe5.js",
+      "static/chunks/8966-673348d8081b0bcb.js",
+      "static/chunks/main-app-d9c8a8df74cd8ea9.js",
+      "static/chunks/7648-c7be6c4bd5306055.js",
+      "static/chunks/3145-db099f837418b490.js",
+      "static/chunks/app/blog/page-4d9786aec7d5c297.js"
+    ],
+    "/blog/[slug]/page": [
+      "static/chunks/webpack-18a548a87706f5f2.js",
+      "static/chunks/fd9d1056-839f5834eeb03fe5.js",
+      "static/chunks/8966-673348d8081b0bcb.js",
+      "static/chunks/main-app-d9c8a8df74cd8ea9.js",
+      "static/chunks/7648-c7be6c4bd5306055.js",
+      "static/chunks/3145-db099f837418b490.js",
+      "static/chunks/app/blog/[slug]/page-164bb38dad837cb0.js"
+    ],
+    "/catering/birmingham-pakistani-indian-catering/page": [
+      "static/chunks/webpack-18a548a87706f5f2.js",
+      "static/chunks/fd9d1056-839f5834eeb03fe5.js",
+      "static/chunks/8966-673348d8081b0bcb.js",
+      "static/chunks/main-app-d9c8a8df74cd8ea9.js",
+      "static/chunks/7648-c7be6c4bd5306055.js",
+      "static/chunks/3145-db099f837418b490.js",
+      "static/chunks/app/catering/birmingham-pakistani-indian-catering/page-e9a8875c20012b43.js"
+    ],
+    "/birthday-venue-walsall/page": [
+      "static/chunks/webpack-18a548a87706f5f2.js",
+      "static/chunks/fd9d1056-839f5834eeb03fe5.js",
+      "static/chunks/8966-673348d8081b0bcb.js",
+      "static/chunks/main-app-d9c8a8df74cd8ea9.js",
+      "static/chunks/7648-c7be6c4bd5306055.js",
+      "static/chunks/3145-db099f837418b490.js",
+      "static/chunks/app/birthday-venue-walsall/page-5ec458322efdc980.js"
+    ],
+    "/catering/black-country-pakistani-indian-catering/page": [
+      "static/chunks/webpack-18a548a87706f5f2.js",
+      "static/chunks/fd9d1056-839f5834eeb03fe5.js",
+      "static/chunks/8966-673348d8081b0bcb.js",
+      "static/chunks/main-app-d9c8a8df74cd8ea9.js",
+      "static/chunks/7648-c7be6c4bd5306055.js",
+      "static/chunks/3145-db099f837418b490.js",
+      "static/chunks/app/catering/black-country-pakistani-indian-catering/page-718d64b4e320b951.js"
+    ],
+    "/catering/asian-catering-west-midlands/page": [
+      "static/chunks/webpack-18a548a87706f5f2.js",
+      "static/chunks/fd9d1056-839f5834eeb03fe5.js",
+      "static/chunks/8966-673348d8081b0bcb.js",
+      "static/chunks/main-app-d9c8a8df74cd8ea9.js",
+      "static/chunks/7648-c7be6c4bd5306055.js",
+      "static/chunks/3145-db099f837418b490.js",
+      "static/chunks/app/catering/asian-catering-west-midlands/page-9e33138a46529db2.js"
+    ],
+    "/catering/birthday-catering-birmingham/page": [
+      "static/chunks/webpack-18a548a87706f5f2.js",
+      "static/chunks/fd9d1056-839f5834eeb03fe5.js",
+      "static/chunks/8966-673348d8081b0bcb.js",
+      "static/chunks/main-app-d9c8a8df74cd8ea9.js",
+      "static/chunks/7648-c7be6c4bd5306055.js",
+      "static/chunks/3145-db099f837418b490.js",
+      "static/chunks/app/catering/birthday-catering-birmingham/page-b2041a491f7ae787.js"
+    ],
+    "/catering/asian-wedding-catering-birmingham/page": [
+      "static/chunks/webpack-18a548a87706f5f2.js",
+      "static/chunks/fd9d1056-839f5834eeb03fe5.js",
+      "static/chunks/8966-673348d8081b0bcb.js",
+      "static/chunks/main-app-d9c8a8df74cd8ea9.js",
+      "static/chunks/7648-c7be6c4bd5306055.js",
+      "static/chunks/3145-db099f837418b490.js",
+      "static/chunks/app/catering/asian-wedding-catering-birmingham/page-458c15e6bd0b55f4.js"
+    ],
+    "/catering/corporate-catering-birmingham/page": [
+      "static/chunks/webpack-18a548a87706f5f2.js",
+      "static/chunks/fd9d1056-839f5834eeb03fe5.js",
+      "static/chunks/8966-673348d8081b0bcb.js",
+      "static/chunks/main-app-d9c8a8df74cd8ea9.js",
+      "static/chunks/7648-c7be6c4bd5306055.js",
+      "static/chunks/3145-db099f837418b490.js",
+      "static/chunks/app/catering/corporate-catering-birmingham/page-c91e3aa86c631a42.js"
+    ],
+    "/catering/coventry-pakistani-indian-catering/page": [
+      "static/chunks/webpack-18a548a87706f5f2.js",
+      "static/chunks/fd9d1056-839f5834eeb03fe5.js",
+      "static/chunks/8966-673348d8081b0bcb.js",
+      "static/chunks/main-app-d9c8a8df74cd8ea9.js",
+      "static/chunks/7648-c7be6c4bd5306055.js",
+      "static/chunks/3145-db099f837418b490.js",
+      "static/chunks/app/catering/coventry-pakistani-indian-catering/page-399af773497ad547.js"
+    ],
+    "/catering/dudley-pakistani-indian-catering/page": [
+      "static/chunks/webpack-18a548a87706f5f2.js",
+      "static/chunks/fd9d1056-839f5834eeb03fe5.js",
+      "static/chunks/8966-673348d8081b0bcb.js",
+      "static/chunks/main-app-d9c8a8df74cd8ea9.js",
+      "static/chunks/7648-c7be6c4bd5306055.js",
+      "static/chunks/3145-db099f837418b490.js",
+      "static/chunks/app/catering/dudley-pakistani-indian-catering/page-a5ae3ecd53a28df7.js"
+    ],
+    "/catering/curry-catering-birmingham/page": [
+      "static/chunks/webpack-18a548a87706f5f2.js",
+      "static/chunks/fd9d1056-839f5834eeb03fe5.js",
+      "static/chunks/8966-673348d8081b0bcb.js",
+      "static/chunks/main-app-d9c8a8df74cd8ea9.js",
+      "static/chunks/7648-c7be6c4bd5306055.js",
+      "static/chunks/3145-db099f837418b490.js",
+      "static/chunks/app/catering/curry-catering-birmingham/page-7c5c36f687bcd831.js"
+    ],
+    "/catering/halal-buffet-birmingham/page": [
+      "static/chunks/webpack-18a548a87706f5f2.js",
+      "static/chunks/fd9d1056-839f5834eeb03fe5.js",
+      "static/chunks/8966-673348d8081b0bcb.js",
+      "static/chunks/main-app-d9c8a8df74cd8ea9.js",
+      "static/chunks/7648-c7be6c4bd5306055.js",
+      "static/chunks/3145-db099f837418b490.js",
+      "static/chunks/app/catering/halal-buffet-birmingham/page-280c566553f85c11.js"
+    ],
+    "/catering/halal-catering-dudley/page": [
+      "static/chunks/webpack-18a548a87706f5f2.js",
+      "static/chunks/fd9d1056-839f5834eeb03fe5.js",
+      "static/chunks/8966-673348d8081b0bcb.js",
+      "static/chunks/main-app-d9c8a8df74cd8ea9.js",
+      "static/chunks/7648-c7be6c4bd5306055.js",
+      "static/chunks/3145-db099f837418b490.js",
+      "static/chunks/app/catering/halal-catering-dudley/page-66261e87e12d8bf7.js"
+    ],
+    "/catering/halal-catering-birmingham/page": [
+      "static/chunks/webpack-18a548a87706f5f2.js",
+      "static/chunks/fd9d1056-839f5834eeb03fe5.js",
+      "static/chunks/8966-673348d8081b0bcb.js",
+      "static/chunks/main-app-d9c8a8df74cd8ea9.js",
+      "static/chunks/7648-c7be6c4bd5306055.js",
+      "static/chunks/3145-db099f837418b490.js",
+      "static/chunks/app/catering/halal-catering-birmingham/page-0e01f83501faadb5.js"
+    ],
+    "/catering/halal-catering-walsall/page": [
+      "static/chunks/webpack-18a548a87706f5f2.js",
+      "static/chunks/fd9d1056-839f5834eeb03fe5.js",
+      "static/chunks/8966-673348d8081b0bcb.js",
+      "static/chunks/main-app-d9c8a8df74cd8ea9.js",
+      "static/chunks/7648-c7be6c4bd5306055.js",
+      "static/chunks/3145-db099f837418b490.js",
+      "static/chunks/app/catering/halal-catering-walsall/page-5380e240db1615e3.js"
+    ],
+    "/catering/halal-private-chef-birmingham/page": [
+      "static/chunks/webpack-18a548a87706f5f2.js",
+      "static/chunks/fd9d1056-839f5834eeb03fe5.js",
+      "static/chunks/8966-673348d8081b0bcb.js",
+      "static/chunks/main-app-d9c8a8df74cd8ea9.js",
+      "static/chunks/7648-c7be6c4bd5306055.js",
+      "static/chunks/3145-db099f837418b490.js",
+      "static/chunks/app/catering/halal-private-chef-birmingham/page-2a695a48bce58ac0.js"
+    ],
+    "/catering/halal-tiffin-service-birmingham/page": [
+      "static/chunks/webpack-18a548a87706f5f2.js",
+      "static/chunks/fd9d1056-839f5834eeb03fe5.js",
+      "static/chunks/8966-673348d8081b0bcb.js",
+      "static/chunks/main-app-d9c8a8df74cd8ea9.js",
+      "static/chunks/7648-c7be6c4bd5306055.js",
+      "static/chunks/3145-db099f837418b490.js",
+      "static/chunks/app/catering/halal-tiffin-service-birmingham/page-755c73c1e2cbc8b8.js"
+    ],
+    "/catering/halal-corporate-catering-birmingham/page": [
+      "static/chunks/webpack-18a548a87706f5f2.js",
+      "static/chunks/fd9d1056-839f5834eeb03fe5.js",
+      "static/chunks/8966-673348d8081b0bcb.js",
+      "static/chunks/main-app-d9c8a8df74cd8ea9.js",
+      "static/chunks/7648-c7be6c4bd5306055.js",
+      "static/chunks/3145-db099f837418b490.js",
+      "static/chunks/app/catering/halal-corporate-catering-birmingham/page-93b8be485b0e9932.js"
+    ],
+    "/catering/home-party-catering-birmingham/page": [
+      "static/chunks/webpack-18a548a87706f5f2.js",
+      "static/chunks/fd9d1056-839f5834eeb03fe5.js",
+      "static/chunks/8966-673348d8081b0bcb.js",
+      "static/chunks/main-app-d9c8a8df74cd8ea9.js",
+      "static/chunks/7648-c7be6c4bd5306055.js",
+      "static/chunks/3145-db099f837418b490.js",
+      "static/chunks/app/catering/home-party-catering-birmingham/page-b636abe19eef7950.js"
+    ],
+    "/catering/home-catering-service-birmingham/page": [
+      "static/chunks/webpack-18a548a87706f5f2.js",
+      "static/chunks/fd9d1056-839f5834eeb03fe5.js",
+      "static/chunks/8966-673348d8081b0bcb.js",
+      "static/chunks/main-app-d9c8a8df74cd8ea9.js",
+      "static/chunks/7648-c7be6c4bd5306055.js",
+      "static/chunks/3145-db099f837418b490.js",
+      "static/chunks/app/catering/home-catering-service-birmingham/page-b6ad0fc2e56709a6.js"
+    ],
+    "/catering/marquee-catering-birmingham/page": [
+      "static/chunks/webpack-18a548a87706f5f2.js",
+      "static/chunks/fd9d1056-839f5834eeb03fe5.js",
+      "static/chunks/8966-673348d8081b0bcb.js",
+      "static/chunks/main-app-d9c8a8df74cd8ea9.js",
+      "static/chunks/7648-c7be6c4bd5306055.js",
+      "static/chunks/3145-db099f837418b490.js",
+      "static/chunks/app/catering/marquee-catering-birmingham/page-2344438ebe18cb57.js"
+    ],
+    "/catering/indian-catering-solihull/page": [
+      "static/chunks/webpack-18a548a87706f5f2.js",
+      "static/chunks/fd9d1056-839f5834eeb03fe5.js",
+      "static/chunks/8966-673348d8081b0bcb.js",
+      "static/chunks/main-app-d9c8a8df74cd8ea9.js",
+      "static/chunks/7648-c7be6c4bd5306055.js",
+      "static/chunks/3145-db099f837418b490.js",
+      "static/chunks/app/catering/indian-catering-solihull/page-73cab9d8e7cea5d6.js"
+    ],
+    "/catering/indian-catering-birmingham/page": [
+      "static/chunks/webpack-18a548a87706f5f2.js",
+      "static/chunks/fd9d1056-839f5834eeb03fe5.js",
+      "static/chunks/8966-673348d8081b0bcb.js",
+      "static/chunks/main-app-d9c8a8df74cd8ea9.js",
+      "static/chunks/7648-c7be6c4bd5306055.js",
+      "static/chunks/3145-db099f837418b490.js",
+      "static/chunks/app/catering/indian-catering-birmingham/page-143d556122c93895.js"
+    ],
+    "/catering/page": [
+      "static/chunks/webpack-18a548a87706f5f2.js",
+      "static/chunks/fd9d1056-839f5834eeb03fe5.js",
+      "static/chunks/8966-673348d8081b0bcb.js",
+      "static/chunks/main-app-d9c8a8df74cd8ea9.js",
+      "static/chunks/7648-c7be6c4bd5306055.js",
+      "static/chunks/3145-db099f837418b490.js",
+      "static/chunks/app/catering/page-9f7d89fddac3cd6f.js"
+    ],
+    "/catering/pakistani-bbq-catering-birmingham/page": [
+      "static/chunks/webpack-18a548a87706f5f2.js",
+      "static/chunks/fd9d1056-839f5834eeb03fe5.js",
+      "static/chunks/8966-673348d8081b0bcb.js",
+      "static/chunks/main-app-d9c8a8df74cd8ea9.js",
+      "static/chunks/7648-c7be6c4bd5306055.js",
+      "static/chunks/3145-db099f837418b490.js",
+      "static/chunks/app/catering/pakistani-bbq-catering-birmingham/page-aff87f89766733e5.js"
+    ],
+    "/catering/pakistani-catering-birmingham/page": [
+      "static/chunks/webpack-18a548a87706f5f2.js",
+      "static/chunks/fd9d1056-839f5834eeb03fe5.js",
+      "static/chunks/8966-673348d8081b0bcb.js",
+      "static/chunks/main-app-d9c8a8df74cd8ea9.js",
+      "static/chunks/7648-c7be6c4bd5306055.js",
+      "static/chunks/3145-db099f837418b490.js",
+      "static/chunks/app/catering/pakistani-catering-birmingham/page-445a22d78f628ad5.js"
+    ],
+    "/catering/solihull-pakistani-indian-catering/page": [
+      "static/chunks/webpack-18a548a87706f5f2.js",
+      "static/chunks/fd9d1056-839f5834eeb03fe5.js",
+      "static/chunks/8966-673348d8081b0bcb.js",
+      "static/chunks/main-app-d9c8a8df74cd8ea9.js",
+      "static/chunks/7648-c7be6c4bd5306055.js",
+      "static/chunks/3145-db099f837418b490.js",
+      "static/chunks/app/catering/solihull-pakistani-indian-catering/page-a1caf82c2ecd7fb3.js"
+    ],
+    "/catering/outdoor-catering-birmingham/page": [
+      "static/chunks/webpack-18a548a87706f5f2.js",
+      "static/chunks/fd9d1056-839f5834eeb03fe5.js",
+      "static/chunks/8966-673348d8081b0bcb.js",
+      "static/chunks/main-app-d9c8a8df74cd8ea9.js",
+      "static/chunks/7648-c7be6c4bd5306055.js",
+      "static/chunks/3145-db099f837418b490.js",
+      "static/chunks/app/catering/outdoor-catering-birmingham/page-2b3638725bf19ed9.js"
+    ],
+    "/catering/pakistani-catering-wolverhampton/page": [
+      "static/chunks/webpack-18a548a87706f5f2.js",
+      "static/chunks/fd9d1056-839f5834eeb03fe5.js",
+      "static/chunks/8966-673348d8081b0bcb.js",
+      "static/chunks/main-app-d9c8a8df74cd8ea9.js",
+      "static/chunks/7648-c7be6c4bd5306055.js",
+      "static/chunks/3145-db099f837418b490.js",
+      "static/chunks/app/catering/pakistani-catering-wolverhampton/page-d1413e97cedc2689.js"
+    ],
+    "/catering/sandwell-pakistani-indian-catering/page": [
+      "static/chunks/webpack-18a548a87706f5f2.js",
+      "static/chunks/fd9d1056-839f5834eeb03fe5.js",
+      "static/chunks/8966-673348d8081b0bcb.js",
+      "static/chunks/main-app-d9c8a8df74cd8ea9.js",
+      "static/chunks/7648-c7be6c4bd5306055.js",
+      "static/chunks/3145-db099f837418b490.js",
+      "static/chunks/app/catering/sandwell-pakistani-indian-catering/page-a7e3547efecbb5b4.js"
+    ],
+    "/catering/special-occasion-catering-birmingham/page": [
+      "static/chunks/webpack-18a548a87706f5f2.js",
+      "static/chunks/fd9d1056-839f5834eeb03fe5.js",
+      "static/chunks/8966-673348d8081b0bcb.js",
+      "static/chunks/main-app-d9c8a8df74cd8ea9.js",
+      "static/chunks/7648-c7be6c4bd5306055.js",
+      "static/chunks/3145-db099f837418b490.js",
+      "static/chunks/app/catering/special-occasion-catering-birmingham/page-6ee22b8f3981cafd.js"
+    ],
+    "/catering/sutton-coldfield-pakistani-indian-catering/page": [
+      "static/chunks/webpack-18a548a87706f5f2.js",
+      "static/chunks/fd9d1056-839f5834eeb03fe5.js",
+      "static/chunks/8966-673348d8081b0bcb.js",
+      "static/chunks/main-app-d9c8a8df74cd8ea9.js",
+      "static/chunks/7648-c7be6c4bd5306055.js",
+      "static/chunks/3145-db099f837418b490.js",
+      "static/chunks/app/catering/sutton-coldfield-pakistani-indian-catering/page-810b7476277056e2.js"
+    ],
+    "/catering/pakistani-wedding-food-birmingham/page": [
+      "static/chunks/webpack-18a548a87706f5f2.js",
+      "static/chunks/fd9d1056-839f5834eeb03fe5.js",
+      "static/chunks/8966-673348d8081b0bcb.js",
+      "static/chunks/main-app-d9c8a8df74cd8ea9.js",
+      "static/chunks/7648-c7be6c4bd5306055.js",
+      "static/chunks/3145-db099f837418b490.js",
+      "static/chunks/app/catering/pakistani-wedding-food-birmingham/page-e24710dcd281e1ce.js"
+    ],
+    "/catering/street-food-catering-birmingham/page": [
+      "static/chunks/webpack-18a548a87706f5f2.js",
+      "static/chunks/fd9d1056-839f5834eeb03fe5.js",
+      "static/chunks/8966-673348d8081b0bcb.js",
+      "static/chunks/main-app-d9c8a8df74cd8ea9.js",
+      "static/chunks/7648-c7be6c4bd5306055.js",
+      "static/chunks/3145-db099f837418b490.js",
+      "static/chunks/app/catering/street-food-catering-birmingham/page-290fae35aa72678d.js"
+    ],
+    "/catering/walsall-pakistani-indian-catering/page": [
+      "static/chunks/webpack-18a548a87706f5f2.js",
+      "static/chunks/fd9d1056-839f5834eeb03fe5.js",
+      "static/chunks/8966-673348d8081b0bcb.js",
+      "static/chunks/main-app-d9c8a8df74cd8ea9.js",
+      "static/chunks/7648-c7be6c4bd5306055.js",
+      "static/chunks/3145-db099f837418b490.js",
+      "static/chunks/app/catering/walsall-pakistani-indian-catering/page-113c3ed02a6a8cbe.js"
+    ],
+    "/crm/analytics/page": [
+      "static/chunks/webpack-18a548a87706f5f2.js",
+      "static/chunks/fd9d1056-839f5834eeb03fe5.js",
+      "static/chunks/8966-673348d8081b0bcb.js",
+      "static/chunks/main-app-d9c8a8df74cd8ea9.js",
+      "static/chunks/7648-c7be6c4bd5306055.js",
+      "static/chunks/4165-0962810ab70c17c6.js",
+      "static/chunks/app/crm/analytics/page-53e6143e30f7b085.js"
+    ],
+    "/corporate-event-venue-birmingham/page": [
+      "static/chunks/webpack-18a548a87706f5f2.js",
+      "static/chunks/fd9d1056-839f5834eeb03fe5.js",
+      "static/chunks/8966-673348d8081b0bcb.js",
+      "static/chunks/main-app-d9c8a8df74cd8ea9.js",
+      "static/chunks/7648-c7be6c4bd5306055.js",
+      "static/chunks/3145-db099f837418b490.js",
+      "static/chunks/app/corporate-event-venue-birmingham/page-f215b4d9dc4d8c02.js"
+    ],
+    "/catering/west-bromwich-pakistani-indian-catering/page": [
+      "static/chunks/webpack-18a548a87706f5f2.js",
+      "static/chunks/fd9d1056-839f5834eeb03fe5.js",
+      "static/chunks/8966-673348d8081b0bcb.js",
+      "static/chunks/main-app-d9c8a8df74cd8ea9.js",
+      "static/chunks/7648-c7be6c4bd5306055.js",
+      "static/chunks/3145-db099f837418b490.js",
+      "static/chunks/app/catering/west-bromwich-pakistani-indian-catering/page-41dcfca372dad4fd.js"
+    ],
+    "/catering/wedding-catering-birmingham/page": [
+      "static/chunks/webpack-18a548a87706f5f2.js",
+      "static/chunks/fd9d1056-839f5834eeb03fe5.js",
+      "static/chunks/8966-673348d8081b0bcb.js",
+      "static/chunks/main-app-d9c8a8df74cd8ea9.js",
+      "static/chunks/7648-c7be6c4bd5306055.js",
+      "static/chunks/3145-db099f837418b490.js",
+      "static/chunks/app/catering/wedding-catering-birmingham/page-a3133a3f13be9ca3.js"
+    ],
+    "/crm/bookings/page": [
+      "static/chunks/webpack-18a548a87706f5f2.js",
+      "static/chunks/fd9d1056-839f5834eeb03fe5.js",
+      "static/chunks/8966-673348d8081b0bcb.js",
+      "static/chunks/main-app-d9c8a8df74cd8ea9.js",
+      "static/chunks/7648-c7be6c4bd5306055.js",
+      "static/chunks/4165-0962810ab70c17c6.js",
+      "static/chunks/app/crm/bookings/page-14f8a0c8b88fefc9.js"
+    ],
+    "/crm/email-log/page": [
+      "static/chunks/webpack-18a548a87706f5f2.js",
+      "static/chunks/fd9d1056-839f5834eeb03fe5.js",
+      "static/chunks/8966-673348d8081b0bcb.js",
+      "static/chunks/main-app-d9c8a8df74cd8ea9.js",
+      "static/chunks/7648-c7be6c4bd5306055.js",
+      "static/chunks/4165-0962810ab70c17c6.js",
+      "static/chunks/app/crm/email-log/page-8455f27141045767.js"
+    ],
+    "/crm/clients/page": [
+      "static/chunks/webpack-18a548a87706f5f2.js",
+      "static/chunks/fd9d1056-839f5834eeb03fe5.js",
+      "static/chunks/8966-673348d8081b0bcb.js",
+      "static/chunks/main-app-d9c8a8df74cd8ea9.js",
+      "static/chunks/7648-c7be6c4bd5306055.js",
+      "static/chunks/4165-0962810ab70c17c6.js",
+      "static/chunks/app/crm/clients/page-02a0fcf87bdab104.js"
+    ],
+    "/crm/leads/page": [
+      "static/chunks/webpack-18a548a87706f5f2.js",
+      "static/chunks/fd9d1056-839f5834eeb03fe5.js",
+      "static/chunks/8966-673348d8081b0bcb.js",
+      "static/chunks/main-app-d9c8a8df74cd8ea9.js",
+      "static/chunks/7648-c7be6c4bd5306055.js",
+      "static/chunks/4165-0962810ab70c17c6.js",
+      "static/chunks/app/crm/leads/page-5ff097dad3a907be.js"
+    ],
+    "/crm/settings/page": [
+      "static/chunks/webpack-18a548a87706f5f2.js",
+      "static/chunks/fd9d1056-839f5834eeb03fe5.js",
+      "static/chunks/8966-673348d8081b0bcb.js",
+      "static/chunks/main-app-d9c8a8df74cd8ea9.js",
+      "static/chunks/7648-c7be6c4bd5306055.js",
+      "static/chunks/4165-0962810ab70c17c6.js",
+      "static/chunks/app/crm/settings/page-fd4e20b3beec3c1e.js"
+    ],
+    "/catering/wolverhampton-pakistani-indian-catering/page": [
+      "static/chunks/webpack-18a548a87706f5f2.js",
+      "static/chunks/fd9d1056-839f5834eeb03fe5.js",
+      "static/chunks/8966-673348d8081b0bcb.js",
+      "static/chunks/main-app-d9c8a8df74cd8ea9.js",
+      "static/chunks/7648-c7be6c4bd5306055.js",
+      "static/chunks/3145-db099f837418b490.js",
+      "static/chunks/app/catering/wolverhampton-pakistani-indian-catering/page-6c05c45e77b4ec1d.js"
+    ],
+    "/catering/tandoori-catering-birmingham/page": [
+      "static/chunks/webpack-18a548a87706f5f2.js",
+      "static/chunks/fd9d1056-839f5834eeb03fe5.js",
+      "static/chunks/8966-673348d8081b0bcb.js",
+      "static/chunks/main-app-d9c8a8df74cd8ea9.js",
+      "static/chunks/7648-c7be6c4bd5306055.js",
+      "static/chunks/3145-db099f837418b490.js",
+      "static/chunks/app/catering/tandoori-catering-birmingham/page-97e2ed9e623b7a6f.js"
+    ],
+    "/crm/page": [
+      "static/chunks/webpack-18a548a87706f5f2.js",
+      "static/chunks/fd9d1056-839f5834eeb03fe5.js",
+      "static/chunks/8966-673348d8081b0bcb.js",
+      "static/chunks/main-app-d9c8a8df74cd8ea9.js",
+      "static/chunks/7648-c7be6c4bd5306055.js",
+      "static/chunks/4165-0962810ab70c17c6.js",
+      "static/chunks/app/crm/page-fa2d774120cac175.js"
+    ],
+    "/engagement-party-venue-birmingham/page": [
+      "static/chunks/webpack-18a548a87706f5f2.js",
+      "static/chunks/fd9d1056-839f5834eeb03fe5.js",
+      "static/chunks/8966-673348d8081b0bcb.js",
+      "static/chunks/main-app-d9c8a8df74cd8ea9.js",
+      "static/chunks/7648-c7be6c4bd5306055.js",
+      "static/chunks/3145-db099f837418b490.js",
+      "static/chunks/app/engagement-party-venue-birmingham/page-c19c832dccd2e027.js"
+    ],
+    "/mehndi-venue-birmingham/page": [
+      "static/chunks/webpack-18a548a87706f5f2.js",
+      "static/chunks/fd9d1056-839f5834eeb03fe5.js",
+      "static/chunks/8966-673348d8081b0bcb.js",
+      "static/chunks/main-app-d9c8a8df74cd8ea9.js",
+      "static/chunks/7648-c7be6c4bd5306055.js",
+      "static/chunks/3145-db099f837418b490.js",
+      "static/chunks/app/mehndi-venue-birmingham/page-5fc095f43131d4b6.js"
+    ],
+    "/nikah-venue-birmingham/page": [
+      "static/chunks/webpack-18a548a87706f5f2.js",
+      "static/chunks/fd9d1056-839f5834eeb03fe5.js",
+      "static/chunks/8966-673348d8081b0bcb.js",
+      "static/chunks/main-app-d9c8a8df74cd8ea9.js",
+      "static/chunks/7648-c7be6c4bd5306055.js",
+      "static/chunks/3145-db099f837418b490.js",
+      "static/chunks/app/nikah-venue-birmingham/page-52ce45b369f2931d.js"
+    ],
+    "/page": [
+      "static/chunks/webpack-18a548a87706f5f2.js",
+      "static/chunks/fd9d1056-839f5834eeb03fe5.js",
+      "static/chunks/8966-673348d8081b0bcb.js",
+      "static/chunks/main-app-d9c8a8df74cd8ea9.js",
+      "static/chunks/7648-c7be6c4bd5306055.js",
+      "static/chunks/3145-db099f837418b490.js",
+      "static/chunks/app/page-0abf4fd131d886d2.js"
+    ],
+    "/small-event-venue-birmingham/page": [
+      "static/chunks/webpack-18a548a87706f5f2.js",
+      "static/chunks/fd9d1056-839f5834eeb03fe5.js",
+      "static/chunks/8966-673348d8081b0bcb.js",
+      "static/chunks/main-app-d9c8a8df74cd8ea9.js",
+      "static/chunks/7648-c7be6c4bd5306055.js",
+      "static/chunks/3145-db099f837418b490.js",
+      "static/chunks/app/small-event-venue-birmingham/page-bfbe40aa9096a4b5.js"
+    ],
+    "/small-event-venue-dudley/page": [
+      "static/chunks/webpack-18a548a87706f5f2.js",
+      "static/chunks/fd9d1056-839f5834eeb03fe5.js",
+      "static/chunks/8966-673348d8081b0bcb.js",
+      "static/chunks/main-app-d9c8a8df74cd8ea9.js",
+      "static/chunks/7648-c7be6c4bd5306055.js",
+      "static/chunks/3145-db099f837418b490.js",
+      "static/chunks/app/small-event-venue-dudley/page-340aa83c9941dea2.js"
+    ],
+    "/small-event-venue-solihull/page": [
+      "static/chunks/webpack-18a548a87706f5f2.js",
+      "static/chunks/fd9d1056-839f5834eeb03fe5.js",
+      "static/chunks/8966-673348d8081b0bcb.js",
+      "static/chunks/main-app-d9c8a8df74cd8ea9.js",
+      "static/chunks/7648-c7be6c4bd5306055.js",
+      "static/chunks/3145-db099f837418b490.js",
+      "static/chunks/app/small-event-venue-solihull/page-f208f0c5a3578c90.js"
+    ],
+    "/testimonials/page": [
+      "static/chunks/webpack-18a548a87706f5f2.js",
+      "static/chunks/fd9d1056-839f5834eeb03fe5.js",
+      "static/chunks/8966-673348d8081b0bcb.js",
+      "static/chunks/main-app-d9c8a8df74cd8ea9.js",
+      "static/chunks/7648-c7be6c4bd5306055.js",
+      "static/chunks/3145-db099f837418b490.js",
+      "static/chunks/app/testimonials/page-2bc352af6360cee9.js"
+    ],
+    "/small-event-venue-walsall/page": [
+      "static/chunks/webpack-18a548a87706f5f2.js",
+      "static/chunks/fd9d1056-839f5834eeb03fe5.js",
+      "static/chunks/8966-673348d8081b0bcb.js",
+      "static/chunks/main-app-d9c8a8df74cd8ea9.js",
+      "static/chunks/7648-c7be6c4bd5306055.js",
+      "static/chunks/3145-db099f837418b490.js",
+      "static/chunks/app/small-event-venue-walsall/page-3aa8d627fb62c17e.js"
+    ],
+    "/venue-hire/comedy-night-venue-birmingham/page": [
+      "static/chunks/webpack-18a548a87706f5f2.js",
+      "static/chunks/fd9d1056-839f5834eeb03fe5.js",
+      "static/chunks/8966-673348d8081b0bcb.js",
+      "static/chunks/main-app-d9c8a8df74cd8ea9.js",
+      "static/chunks/7648-c7be6c4bd5306055.js",
+      "static/chunks/3145-db099f837418b490.js",
+      "static/chunks/519-5c4e8fc29293d315.js",
+      "static/chunks/app/venue-hire/comedy-night-venue-birmingham/page-ef69c420bb1b47dd.js"
+    ],
+    "/venue-hire/dance-studio-hire-birmingham/page": [
+      "static/chunks/webpack-18a548a87706f5f2.js",
+      "static/chunks/fd9d1056-839f5834eeb03fe5.js",
+      "static/chunks/8966-673348d8081b0bcb.js",
+      "static/chunks/main-app-d9c8a8df74cd8ea9.js",
+      "static/chunks/7648-c7be6c4bd5306055.js",
+      "static/chunks/3145-db099f837418b490.js",
+      "static/chunks/519-5c4e8fc29293d315.js",
+      "static/chunks/app/venue-hire/dance-studio-hire-birmingham/page-290941a3be507c10.js"
+    ],
+    "/venue-hire/gender-reveal-venue-birmingham/page": [
+      "static/chunks/webpack-18a548a87706f5f2.js",
+      "static/chunks/fd9d1056-839f5834eeb03fe5.js",
+      "static/chunks/8966-673348d8081b0bcb.js",
+      "static/chunks/main-app-d9c8a8df74cd8ea9.js",
+      "static/chunks/7648-c7be6c4bd5306055.js",
+      "static/chunks/3145-db099f837418b490.js",
+      "static/chunks/519-5c4e8fc29293d315.js",
+      "static/chunks/app/venue-hire/gender-reveal-venue-birmingham/page-f3db52307c72349c.js"
+    ],
+    "/venue-hire/creative-workshop-studio-birmingham/page": [
+      "static/chunks/webpack-18a548a87706f5f2.js",
+      "static/chunks/fd9d1056-839f5834eeb03fe5.js",
+      "static/chunks/8966-673348d8081b0bcb.js",
+      "static/chunks/main-app-d9c8a8df74cd8ea9.js",
+      "static/chunks/7648-c7be6c4bd5306055.js",
+      "static/chunks/3145-db099f837418b490.js",
+      "static/chunks/519-5c4e8fc29293d315.js",
+      "static/chunks/app/venue-hire/creative-workshop-studio-birmingham/page-f5f794d6e540368a.js"
+    ],
+    "/venue-hire/ladies-event-venue-birmingham/page": [
+      "static/chunks/webpack-18a548a87706f5f2.js",
+      "static/chunks/fd9d1056-839f5834eeb03fe5.js",
+      "static/chunks/8966-673348d8081b0bcb.js",
+      "static/chunks/main-app-d9c8a8df74cd8ea9.js",
+      "static/chunks/7648-c7be6c4bd5306055.js",
+      "static/chunks/3145-db099f837418b490.js",
+      "static/chunks/519-5c4e8fc29293d315.js",
+      "static/chunks/app/venue-hire/ladies-event-venue-birmingham/page-ac7eb402b13e526e.js"
+    ],
+    "/venue-hire/corporate-event-space-birmingham/page": [
+      "static/chunks/webpack-18a548a87706f5f2.js",
+      "static/chunks/fd9d1056-839f5834eeb03fe5.js",
+      "static/chunks/8966-673348d8081b0bcb.js",
+      "static/chunks/main-app-d9c8a8df74cd8ea9.js",
+      "static/chunks/7648-c7be6c4bd5306055.js",
+      "static/chunks/3145-db099f837418b490.js",
+      "static/chunks/519-5c4e8fc29293d315.js",
+      "static/chunks/app/venue-hire/corporate-event-space-birmingham/page-9e5a7b028107ece7.js"
+    ],
+    "/venue-hire/martial-arts-yoga-studio-birmingham/page": [
+      "static/chunks/webpack-18a548a87706f5f2.js",
+      "static/chunks/fd9d1056-839f5834eeb03fe5.js",
+      "static/chunks/8966-673348d8081b0bcb.js",
+      "static/chunks/main-app-d9c8a8df74cd8ea9.js",
+      "static/chunks/7648-c7be6c4bd5306055.js",
+      "static/chunks/3145-db099f837418b490.js",
+      "static/chunks/519-5c4e8fc29293d315.js",
+      "static/chunks/app/venue-hire/martial-arts-yoga-studio-birmingham/page-e02a62345672fbf2.js"
+    ],
+    "/venue-hire/networking-event-space-birmingham/page": [
+      "static/chunks/webpack-18a548a87706f5f2.js",
+      "static/chunks/fd9d1056-839f5834eeb03fe5.js",
+      "static/chunks/8966-673348d8081b0bcb.js",
+      "static/chunks/main-app-d9c8a8df74cd8ea9.js",
+      "static/chunks/7648-c7be6c4bd5306055.js",
+      "static/chunks/3145-db099f837418b490.js",
+      "static/chunks/519-5c4e8fc29293d315.js",
+      "static/chunks/app/venue-hire/networking-event-space-birmingham/page-182ec273399452c0.js"
+    ],
+    "/venue-hire/martial-arts-class-venue-birmingham/page": [
+      "static/chunks/webpack-18a548a87706f5f2.js",
+      "static/chunks/fd9d1056-839f5834eeb03fe5.js",
+      "static/chunks/8966-673348d8081b0bcb.js",
+      "static/chunks/main-app-d9c8a8df74cd8ea9.js",
+      "static/chunks/7648-c7be6c4bd5306055.js",
+      "static/chunks/3145-db099f837418b490.js",
+      "static/chunks/app/venue-hire/martial-arts-class-venue-birmingham/page-01024e0ddf7dced3.js"
+    ],
+    "/venue-hire/photo-video-studio-hire-birmingham/page": [
+      "static/chunks/webpack-18a548a87706f5f2.js",
+      "static/chunks/fd9d1056-839f5834eeb03fe5.js",
+      "static/chunks/8966-673348d8081b0bcb.js",
+      "static/chunks/main-app-d9c8a8df74cd8ea9.js",
+      "static/chunks/7648-c7be6c4bd5306055.js",
+      "static/chunks/3145-db099f837418b490.js",
+      "static/chunks/519-5c4e8fc29293d315.js",
+      "static/chunks/app/venue-hire/photo-video-studio-hire-birmingham/page-15b1a602ad44d8f2.js"
+    ],
+    "/venue-hire/qawali-night-venue-birmingham/page": [
+      "static/chunks/webpack-18a548a87706f5f2.js",
+      "static/chunks/fd9d1056-839f5834eeb03fe5.js",
+      "static/chunks/8966-673348d8081b0bcb.js",
+      "static/chunks/main-app-d9c8a8df74cd8ea9.js",
+      "static/chunks/7648-c7be6c4bd5306055.js",
+      "static/chunks/3145-db099f837418b490.js",
+      "static/chunks/519-5c4e8fc29293d315.js",
+      "static/chunks/app/venue-hire/qawali-night-venue-birmingham/page-0c6b6b90ca8c3166.js"
+    ],
+    "/small-event-venue-wolverhampton/page": [
+      "static/chunks/webpack-18a548a87706f5f2.js",
+      "static/chunks/fd9d1056-839f5834eeb03fe5.js",
+      "static/chunks/8966-673348d8081b0bcb.js",
+      "static/chunks/main-app-d9c8a8df74cd8ea9.js",
+      "static/chunks/7648-c7be6c4bd5306055.js",
+      "static/chunks/3145-db099f837418b490.js",
+      "static/chunks/app/small-event-venue-wolverhampton/page-65772ca6fafc954e.js"
+    ],
+    "/venue-hire/theatre-rehearsal-space-birmingham/page": [
+      "static/chunks/webpack-18a548a87706f5f2.js",
+      "static/chunks/fd9d1056-839f5834eeb03fe5.js",
+      "static/chunks/8966-673348d8081b0bcb.js",
+      "static/chunks/main-app-d9c8a8df74cd8ea9.js",
+      "static/chunks/7648-c7be6c4bd5306055.js",
+      "static/chunks/3145-db099f837418b490.js",
+      "static/chunks/519-5c4e8fc29293d315.js",
+      "static/chunks/app/venue-hire/theatre-rehearsal-space-birmingham/page-8fa57d3224545551.js"
+    ],
+    "/venue-hire-birmingham/page": [
+      "static/chunks/webpack-18a548a87706f5f2.js",
+      "static/chunks/fd9d1056-839f5834eeb03fe5.js",
+      "static/chunks/8966-673348d8081b0bcb.js",
+      "static/chunks/main-app-d9c8a8df74cd8ea9.js",
+      "static/chunks/7648-c7be6c4bd5306055.js",
+      "static/chunks/3145-db099f837418b490.js",
+      "static/chunks/519-5c4e8fc29293d315.js",
+      "static/chunks/app/venue-hire-birmingham/page-fbf8035e984ba050.js"
+    ],
+    "/venue-hire/wellness-meditation-studio-birmingham/page": [
+      "static/chunks/webpack-18a548a87706f5f2.js",
+      "static/chunks/fd9d1056-839f5834eeb03fe5.js",
+      "static/chunks/8966-673348d8081b0bcb.js",
+      "static/chunks/main-app-d9c8a8df74cd8ea9.js",
+      "static/chunks/7648-c7be6c4bd5306055.js",
+      "static/chunks/3145-db099f837418b490.js",
+      "static/chunks/519-5c4e8fc29293d315.js",
+      "static/chunks/app/venue-hire/wellness-meditation-studio-birmingham/page-d083c9af9ad60486.js"
+    ],
+    "/wedding-venue-near-dudley/page": [
+      "static/chunks/webpack-18a548a87706f5f2.js",
+      "static/chunks/fd9d1056-839f5834eeb03fe5.js",
+      "static/chunks/8966-673348d8081b0bcb.js",
+      "static/chunks/main-app-d9c8a8df74cd8ea9.js",
+      "static/chunks/7648-c7be6c4bd5306055.js",
+      "static/chunks/3145-db099f837418b490.js",
+      "static/chunks/app/wedding-venue-near-dudley/page-b4025800f5620cf3.js"
+    ],
+    "/venue/services/page": [
+      "static/chunks/webpack-18a548a87706f5f2.js",
+      "static/chunks/fd9d1056-839f5834eeb03fe5.js",
+      "static/chunks/8966-673348d8081b0bcb.js",
+      "static/chunks/main-app-d9c8a8df74cd8ea9.js",
+      "static/chunks/7648-c7be6c4bd5306055.js",
+      "static/chunks/3145-db099f837418b490.js",
+      "static/chunks/app/venue/services/page-66e7a90672b09056.js"
+    ],
+    "/wedding-venue-birmingham/page": [
+      "static/chunks/webpack-18a548a87706f5f2.js",
+      "static/chunks/fd9d1056-839f5834eeb03fe5.js",
+      "static/chunks/8966-673348d8081b0bcb.js",
+      "static/chunks/main-app-d9c8a8df74cd8ea9.js",
+      "static/chunks/7648-c7be6c4bd5306055.js",
+      "static/chunks/3145-db099f837418b490.js",
+      "static/chunks/app/wedding-venue-birmingham/page-f679ac166056b7bf.js"
+    ],
+    "/wedding-venue-dudley/page": [
+      "static/chunks/webpack-18a548a87706f5f2.js",
+      "static/chunks/fd9d1056-839f5834eeb03fe5.js",
+      "static/chunks/8966-673348d8081b0bcb.js",
+      "static/chunks/main-app-d9c8a8df74cd8ea9.js",
+      "static/chunks/7648-c7be6c4bd5306055.js",
+      "static/chunks/3145-db099f837418b490.js",
+      "static/chunks/app/wedding-venue-dudley/page-9795f052fb35fa77.js"
+    ],
+    "/wedding-venue-solihull/page": [
+      "static/chunks/webpack-18a548a87706f5f2.js",
+      "static/chunks/fd9d1056-839f5834eeb03fe5.js",
+      "static/chunks/8966-673348d8081b0bcb.js",
+      "static/chunks/main-app-d9c8a8df74cd8ea9.js",
+      "static/chunks/7648-c7be6c4bd5306055.js",
+      "static/chunks/3145-db099f837418b490.js",
+      "static/chunks/app/wedding-venue-solihull/page-a493d318632f07cb.js"
+    ],
+    "/wedding-venue-walsall/page": [
+      "static/chunks/webpack-18a548a87706f5f2.js",
+      "static/chunks/fd9d1056-839f5834eeb03fe5.js",
+      "static/chunks/8966-673348d8081b0bcb.js",
+      "static/chunks/main-app-d9c8a8df74cd8ea9.js",
+      "static/chunks/7648-c7be6c4bd5306055.js",
+      "static/chunks/3145-db099f837418b490.js",
+      "static/chunks/app/wedding-venue-walsall/page-5d11ef7cd30d657f.js"
+    ],
+    "/wedding-venue-wolverhampton/page": [
+      "static/chunks/webpack-18a548a87706f5f2.js",
+      "static/chunks/fd9d1056-839f5834eeb03fe5.js",
+      "static/chunks/8966-673348d8081b0bcb.js",
+      "static/chunks/main-app-d9c8a8df74cd8ea9.js",
+      "static/chunks/7648-c7be6c4bd5306055.js",
+      "static/chunks/3145-db099f837418b490.js",
+      "static/chunks/app/wedding-venue-wolverhampton/page-8928a8234c0084dc.js"
+    ]
+  }
+}

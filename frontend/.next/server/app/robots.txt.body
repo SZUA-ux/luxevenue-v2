@@ -1,0 +1,6 @@
+User-Agent: *
+Allow: /
+Disallow: /crm/
+Disallow: /api/
+
+Sitemap: https://luxevenue.co.uk/sitemap.xml
