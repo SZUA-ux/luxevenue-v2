@@ -1,0 +1,33 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --rose-gold-light: #E8C4B8;
+  --rose-gold: #D4AF37;
+  --rose-gold-dark: #C9A982;
+  --black-primary: #0A0A0A;
+  --black-secondary: #121212;
+  --surface-dark: #1A1A1A;
+  --surface-elevated: #242424;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Lato', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Playfair Display', serif;
+}
+
+.font-subheading {
+  font-family: 'Montserrat', sans-serif;
+}

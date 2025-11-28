@@ -1,0 +1,70 @@
+import { Metadata } from 'next'
+import PublicNav from '@/components/PublicNav'
+import PublicFooter from '@/components/PublicFooter'
+import { getCanonicalUrl } from '@/lib/utils/seo'
+import Link from 'next/link'
+
+export const metadata: Metadata = {
+  title: 'Small Wedding Venue Birmingham | Intimate Weddings 20-70 Guests | LUXE VENUE',
+  description: 'Premier small wedding venue in Birmingham for intimate celebrations. Capacity 20-70 guests. Halal catering, alcohol-free, perfect for micro weddings. Asian, Pakistani, Indian weddings welcome.',
+  alternates: { canonical: getCanonicalUrl('/wedding-venue-birmingham') },
+}
+
+export default function WeddingVenueBirminghamPage() {
+  return (
+    <>
+      <PublicNav />
+      <main className="min-h-screen bg-black-primary pt-20">
+        <section className="py-24 px-4 sm:px-6 lg:px-8">
+          <div className="max-w-4xl mx-auto">
+            <h1 className="text-5xl sm:text-6xl font-heading font-bold mb-6 text-center">
+              <span className="bg-gradient-to-r from-rose-gold-light via-rose-gold to-rose-gold-dark bg-clip-text text-transparent">
+                Wedding Venue Birmingham
+              </span>
+            </h1>
+            <p className="text-xl text-gray-300 text-center mb-12">
+              Create your perfect wedding day at Birmingham's most luxurious event venue
+            </p>
+
+            <div className="prose prose-invert max-w-none">
+              <div className="bg-surface-dark p-8 rounded-xl border border-white/10 mb-8">
+                <h2 className="text-3xl font-heading text-white mb-4">Your Dream Wedding Awaits</h2>
+                <p className="text-gray-300 leading-relaxed">
+                  LUXE VENUE offers the perfect setting for your special day. Our elegant venue in Birmingham provides a stunning backdrop for weddings of all sizes, from intimate ceremonies to grand celebrations.
+                </p>
+              </div>
+
+              <div className="grid grid-cols-1 md:grid-cols-2 gap-6 mb-8">
+                {[
+                  'Capacity up to 70 guests',
+                  'Elegant bridal suite',
+                  'Professional wedding coordination',
+                  'Customizable décor options',
+                  'Premium halal catering services',
+                  'State-of-the-art audio-visual',
+                  'Alcohol-free family environment',
+                  'Free parking available',
+                ].map((feature, index) => (
+                  <div key={index} className="flex items-center gap-3 text-gray-300">
+                    <span className="text-rose-gold text-xl">✓</span>
+                    <span>{feature}</span>
+                  </div>
+                ))}
+              </div>
+
+              <div className="text-center mt-12">
+                <Link
+                  href="/contact"
+                  className="inline-block px-8 py-4 rounded-full bg-gradient-to-r from-rose-gold-light via-rose-gold to-rose-gold-dark text-black font-semibold hover:shadow-2xl transition-all"
+                >
+                  Book Your Venue Tour
+                </Link>
+              </div>
+            </div>
+          </div>
+        </section>
+      </main>
+      <PublicFooter />
+    </>
+  )
+}

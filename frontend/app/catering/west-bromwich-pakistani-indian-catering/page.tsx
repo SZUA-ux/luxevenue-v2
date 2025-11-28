@@ -1,0 +1,137 @@
+import { Metadata } from 'next'
+import PublicNav from '@/components/PublicNav'
+import PublicFooter from '@/components/PublicFooter'
+import Link from 'next/link'
+import { generateCateringMetadata, generateCateringJSONLD, generateCateringFAQSchema, generateCateringBreadcrumbs } from '@/lib/seo/catering-seo'
+
+export const metadata: Metadata = generateCateringMetadata({
+  city: 'West Bromwich',
+  slug: 'west-bromwich-pakistani-indian-catering',
+  postcodes: ['B70', 'B71'],
+  neighbourhoods: ['Great Barr', 'Newton', 'Charlemont', 'Friar Park', 'Guns Village', 'Hill Top'],
+  landmarks: ['The Hawthorns Stadium', 'West Bromwich Town Hall', 'Sandwell Valley', 'Oak House Museum']
+})
+
+const faqs = [
+  {
+    question: 'Do you deliver Pakistani catering to Great Barr and Newton in West Bromwich?',
+    answer: 'Yes! We deliver authentic halal Pakistani and Indian catering throughout West Bromwich including Great Barr, Newton, Charlemont, Hill Top, Guns Village, and all West Bromwich postcodes (B70-B71). Free delivery for orders of 100+ guests. Minimum order 20 guests.'
+  },
+  {
+    question: 'Can you cater events at The Hawthorns or West Bromwich Town Hall?',
+    answer: 'Absolutely! LUXE VENUE provides professional halal catering for events at The Hawthorns (West Brom FC), West Bromwich Town Hall, Sandwell Valley, and private venues across West Bromwich. We handle everything from setup to cleanup with experienced staff.'
+  },
+  {
+    question: 'What areas of West Bromwich do you cover for halal catering?',
+    answer: 'We cover all West Bromwich areas including town centre (B70), Great Barr (B71), Newton, Charlemont, Hill Top, Friar Park, Guns Village, and all surrounding postcodes (B70-B71) across West Bromwich and Sandwell borough.'
+  },
+  {
+    question: 'How much is Pakistani catering per person in West Bromwich?',
+    answer: 'Our West Bromwich halal catering starts from £15 per person for buffet service. Pakistani menu £18pp, Indian menu £16pp, Fusion menu £20pp. All prices include fresh cooking, professional setup, chafing dishes, and serving utensils. Free delivery for 100+ guests.'
+  }
+]
+
+export default function WestBromwichCateringPage() {
+  const jsonLd = generateCateringJSONLD({
+    city: 'West Bromwich',
+    slug: 'west-bromwich-pakistani-indian-catering',
+    postcodes: ['B70', 'B71'],
+    neighbourhoods: ['Great Barr', 'Newton', 'Charlemont', 'Hill Top']
+  })
+  
+  const faqSchema = generateCateringFAQSchema('West Bromwich', faqs)
+  const breadcrumbs = generateCateringBreadcrumbs('West Bromwich', 'west-bromwich-pakistani-indian-catering')
+
+  return (
+    <>
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(faqSchema) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbs) }} />
+      
+      <PublicNav />
+      <main className="min-h-screen bg-black-primary pt-20">
+        <section className="py-24 px-4 sm:px-6 lg:px-8">
+          <div className="max-w-6xl mx-auto">
+            <h1 className="text-5xl font-heading font-bold text-center mb-6">
+              <span className="bg-gradient-to-r from-rose-gold-light via-rose-gold to-rose-gold-dark bg-clip-text text-transparent">
+                Pakistani & Indian Catering West Bromwich
+              </span>
+            </h1>
+            <p className="text-2xl text-white text-center mb-8">Halal Catering for All Occasions in West Bromwich</p>
+            <p className="text-lg text-gray-300 text-center mb-12 max-w-4xl mx-auto">
+              Serving <strong className="text-white">West Bromwich, Great Barr, Newton, and all B70-B71 areas</strong> with authentic Pakistani and Indian halal catering.
+            </p>
+            
+            <div className="flex flex-col sm:flex-row gap-6 justify-center mb-16">
+              <Link href="/contact" className="px-10 py-5 rounded-full bg-gradient-to-r from-rose-gold-light via-rose-gold to-rose-gold-dark text-black font-bold text-lg hover:shadow-2xl transition-all text-center">
+                Get Free Quote
+              </Link>
+              <a href="tel:+447391222884" className="px-8 py-4 rounded-full border-2 border-rose-gold text-rose-gold font-semibold text-lg hover:bg-rose-gold hover:text-black transition-all text-center">
+                📞 +44 7391 222884
+              </a>
+            </div>
+
+            <div className="bg-surface-dark p-8 rounded-xl border border-white/10 mb-8">
+              <h2 className="text-3xl font-heading font-bold text-white mb-4">West Bromwich's Premier Halal Catering Service</h2>
+              <p className="text-gray-300 leading-relaxed mb-4">
+                Looking for authentic <strong className="text-white">Pakistani catering in West Bromwich</strong> or <strong className="text-white">Indian catering services</strong>? 
+                LUXE VENUE delivers premium halal cuisine throughout West Bromwich town centre (B70), Great Barr (B71), Newton, Charlemont, Hill Top, 
+                and all surrounding areas across West Bromwich and Sandwell borough.
+              </p>
+              <p className="text-gray-300 leading-relaxed mb-4">
+                Whether you're hosting a wedding near The Hawthorns Stadium (home of West Brom FC), a corporate event at West Bromwich Town Hall, a family gathering in Great Barr, or a celebration in Newton, 
+                our professional catering team delivers fresh, authentic Pakistani and Indian cuisine. We proudly serve West Bromwich's diverse communities from the bustling high street 
+                and shopping centres to the residential areas of Hill Top, Charlemont, and Guns Village.
+              </p>
+              <p className="text-gray-300 leading-relaxed">
+                Based in nearby Birmingham B12, we're perfectly positioned to serve all of West Bromwich. From intimate family gatherings in Friar Park to large celebrations 
+                at Sandwell Valley, LUXE VENUE brings restaurant-quality halal food to your event across B70-B71 postcodes.
+              </p>
+            </div>
+
+            <div className="grid md:grid-cols-3 gap-6 mb-12">
+              <div className="bg-surface-elevated p-6 rounded-xl border border-white/10">
+                <h3 className="text-xl font-bold text-white mb-2">📍 Areas Covered</h3>
+                <p className="text-gray-300 text-sm">All West Bromwich: B70-B71. Great Barr, Newton, Charlemont, Hill Top, Guns Village, Friar Park.</p>
+              </div>
+              <div className="bg-surface-elevated p-6 rounded-xl border border-white/10">
+                <h3 className="text-xl font-bold text-white mb-2">💰 Pricing</h3>
+                <p className="text-gray-300 text-sm">From £15pp buffet service. Pakistani £18pp, Indian £16pp, Fusion £20pp. Free delivery 100+ guests.</p>
+              </div>
+              <div className="bg-surface-elevated p-6 rounded-xl border border-white/10">
+                <h3 className="text-xl font-bold text-white mb-2">✅ 100% Halal</h3>
+                <p className="text-gray-300 text-sm">All ingredients halal certified. Fresh cooking. Professional staff.</p>
+              </div>
+            </div>
+
+            <div className="bg-black-secondary p-8 rounded-xl mb-12">
+              <h2 className="text-3xl font-heading font-bold text-white mb-8 text-center">Frequently Asked Questions</h2>
+              <div className="space-y-6">
+                {faqs.map((faq, index) => (
+                  <div key={index} className="bg-surface-dark p-6 rounded-lg border border-white/10">
+                    <h3 className="text-lg font-bold text-white mb-3">{faq.question}</h3>
+                    <p className="text-gray-300 leading-relaxed">{faq.answer}</p>
+                  </div>
+                ))}
+              </div>
+            </div>
+
+            <div className="bg-gradient-to-r from-rose-gold-light/10 via-rose-gold/10 to-rose-gold-dark/10 p-8 rounded-xl border border-rose-gold/30 text-center">
+              <h3 className="text-2xl font-bold text-white mb-4">Ready to Book Your West Bromwich Catering?</h3>
+              <p className="text-gray-300 mb-6">Get a free quote for your next event.</p>
+              <div className="flex flex-col sm:flex-row gap-4 justify-center">
+                <Link href="/contact" className="px-8 py-4 rounded-full bg-rose-gold text-black font-bold hover:bg-rose-gold-light transition-all">
+                  Get Free Quote
+                </Link>
+                <Link href="/catering" className="px-8 py-4 rounded-full border-2 border-rose-gold text-rose-gold font-semibold hover:bg-rose-gold hover:text-black transition-all">
+                  View All Catering Services
+                </Link>
+              </div>
+            </div>
+          </div>
+        </section>
+      </main>
+      <PublicFooter />
+    </>
+  )
+}
