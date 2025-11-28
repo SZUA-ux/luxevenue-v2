@@ -25,6 +25,7 @@ async function seed() {
     
     const admin = await User.create({
       id: uuidv4(),
+      username: 'admin',
       email: 'info@luxevenue.co.uk',
       password: hashedPassword,
       role: 'admin',
